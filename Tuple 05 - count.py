@@ -1,0 +1,5 @@
+tuple = (1, 2, 3, 4, 5, 5)
+print(f'The tuple is {tuple}')
+print(f'This tuple has {tuple.count(4)} number four')
+print(f'This tuple has {tuple.count(5)} number five')
+print(f'This tuple has {tuple.count(6)} number six')
